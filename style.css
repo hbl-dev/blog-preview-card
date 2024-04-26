@@ -60,6 +60,11 @@ body {
     cursor: pointer;
 }
 
+.header:active {
+    color: green;
+    cursor: pointer;
+}
+
 .description {
     font-size: 1.3rem;
     color: hsl(0, 0%, 50%);
